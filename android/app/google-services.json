@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "395758822571",
+    "project_id": "xtrap-lst",
+    "storage_bucket": "xtrap-lst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395758822571:android:3e6f07fd4fcd18be7d83ee",
+        "android_client_info": {
+          "package_name": "com.xtrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395758822571-o7soa7ckekkv0sa9ta4q9gah72dfgavv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOjvnGLyA7LThmmwAUpzjWJb0RfoC-RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395758822571-o7soa7ckekkv0sa9ta4q9gah72dfgavv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395758822571-647b8uhvlf98m19di2sn9qpsce74b304.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.xtrapp.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
