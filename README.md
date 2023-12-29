@@ -39,6 +39,11 @@ One of the standout features of our application is the powerful 'Admin Panel,' g
 
 We're thrilled to announce that X-Trap Store is currently available on both Apple Store and Google Play, making it easily accessible to a wide audience.
 
+## Apple and Google Play 
+
+-[**Apple Store**](https://apps.apple.com/tr/app/x-trap-store/id6471013547)
+-[**Google Play Store**](https://play.google.com/store/apps/details?id=com.xtrapp)
+
 ## Dependencies
 
 - ⚛️ **React Native**: A JavaScript library that provides a way to create native mobile apps for Android and iOS.
