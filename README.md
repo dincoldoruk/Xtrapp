@@ -42,6 +42,7 @@ We're thrilled to announce that X-Trap Store is currently available on both Appl
 ## Apple and Google Play 
 
 -[**Apple Store**](https://apps.apple.com/tr/app/x-trap-store/id6471013547)
+
 -[**Google Play Store**](https://play.google.com/store/apps/details?id=com.xtrapp)
 
 ## Dependencies
@@ -85,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 ## Author
 
 - [**Doruk Dinçol**](https://github.com/dincoldoruk)
-- [**Ömer Koçer**](https://github.com/omerkocer)
+
