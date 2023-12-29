@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 ## Author
 
 - [**Doruk Dinçol**](https://github.com/dincoldoruk)
-
+- [**Ömer Koçer**](https://github.com/omerkocer)
